@@ -1,9 +1,9 @@
 const cacheName = "InfinitySlots-Pirates-0.1.0";
 const contentToCache = [
     "Build/Deploy.loader.js",
-    "Build/Deploy.framework.js.gz",
-    "Build/Deploy.data.gz",
-    "Build/Deploy.wasm.gz",
+    "Build/Deploy.framework.js",
+    "Build/Deploy.data",
+    "Build/Deploy.wasm",
     "TemplateData/style.css"
 
 ];
